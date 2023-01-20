@@ -3,8 +3,17 @@ Build By Php Web Have Connected With Flutter ecommerce App By Api
 
 <code> Html Css Bootstrape TailwindCss Js Jquery Ajax Php MySqli </code>
 
+# Projects Icludes
+### Web + APP
+
 <b> <u> For Admin Panel </u> </b>
-<i> Visit Php Ecommerce Store Web+App </i>
+```php 
+ yourdomain/admino
+ ```
+ <ul>
+  <li><b> Admin Name </b>: Admino </li>
+  <li><b> Password </b>: 786 </li>
+</ul>
 <p> If needs Both Website and Applications </p>
 <br> OR Can </br>
 <ul>
