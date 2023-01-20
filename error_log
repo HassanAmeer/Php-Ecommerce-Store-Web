@@ -1,0 +1,42 @@
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:16:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:18:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:19:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:19:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/malikgroup.store/config.php on line 4
+[24-Aug-2022 01:38:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/header.php on line 15
+[24-Aug-2022 01:57:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/header.php on line 15
+[24-Aug-2022 06:44:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/header.php on line 15
+[25-Aug-2022 11:03:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[25-Aug-2022 21:26:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[26-Aug-2022 09:29:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[28-Aug-2022 01:18:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[28-Aug-2022 01:18:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[31-Aug-2022 09:16:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[31-Aug-2022 11:02:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[04-Sep-2022 08:37:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[06-Sep-2022 05:46:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[06-Sep-2022 07:50:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/getsellw/malikgroup.store/contact-us.php on line 40
+[07-Sep-2022 06:38:09 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 23
+[07-Sep-2022 06:38:10 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 23
+[07-Sep-2022 06:38:16 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 23
+[07-Sep-2022 06:38:17 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 23
+[07-Sep-2022 06:38:19 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 23
+[07-Sep-2022 06:40:59 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 58
+[07-Sep-2022 06:41:03 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 58
+[07-Sep-2022 06:41:07 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 58
+[07-Sep-2022 06:41:08 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 58
+[07-Sep-2022 06:41:54 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 56
+[07-Sep-2022 06:42:01 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 56
+[07-Sep-2022 06:42:02 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 56
+[07-Sep-2022 06:42:03 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 56
+[07-Sep-2022 06:42:04 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING) in /home/getsellw/malikgroup.store/statics.php on line 56
